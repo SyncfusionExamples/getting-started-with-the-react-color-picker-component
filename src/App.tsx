@@ -21,7 +21,7 @@ function onColorChange(args: ColorPickerEventArgs): void {
       <ColorPickerComponent value="035a" mode='Palette' inline={true}
       modeSwitcher={false} showButtons={false} noColor={true} 
       presetColors={colorpickerPresets} columns={4} change ={onColorChange}
-      // Add disabled={true} in below code to diable the Color Picker
+      // Add disabled={true} to diable the Color Picker
       // Add cssClass='e-hide-value' to hide input area from picker mode
       >
       </ColorPickerComponent>
