@@ -1,0 +1,9 @@
+#wrapper {
+  text-align: center;
+}
+
+#preview {
+  height: 50px;
+  width: 100px;
+  margin: 2% 45%;
+}
